@@ -1,0 +1,28 @@
+name: GrosKirst
+favicon: null
+layout_spectrum: 0.2910668549593538
+typography_spectrum: 0.7948948820121586
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1309292649384588
+  lightness: 0.530296326149255
+  saturation: 0.0018608940299600363
+  rhythmicContrast: 0.8855446232482791
+purpose: []
